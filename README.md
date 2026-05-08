@@ -733,11 +733,3 @@ Your current Flight Assistant architecture already moved beyond simple prompt in
 * stateful memory systems
 
 So this tutorial represents the foundational pattern underneath many modern agent architectures.
-
----
-
-## Additional Resource
-
-Microsoft's beginner-friendly agentic AI repository:
-
-[AI Agents for Beginners (GitHub)](https://github.com/microsoft/ai-agents-for-beginners?utm_source=chatgpt.com) 
