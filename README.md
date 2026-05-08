@@ -1,8 +1,5 @@
 Build a Local Agent in Python with Context — Part 2
-
-Notes based on the tutorial by Indently￼
 Topic: Dynamic Context Injection for Local LLM Agents
-Date: May 6, 2026
 
 ⸻
 
